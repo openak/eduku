@@ -1,0 +1,35 @@
+INFO  - 2011-11-20 03:40:51 --> Base path set to: /home2/plusmed1/public_html/eduku/
+INFO  - 2011-11-20 03:40:51 --> Base dir set to: /
+INFO  - 2011-11-20 03:40:51 --> System path set to: /home2/plusmed1/public_html/eduku/system/
+INFO  - 2011-11-20 03:40:51 --> Application path set to: /home2/plusmed1/public_html/eduku/system/application/
+INFO  - 2011-11-20 03:40:51 --> Modules path set to: /home2/plusmed1/public_html/eduku/modules/
+INFO  - 2011-11-20 03:40:51 --> Logs path set to: /home2/plusmed1/public_html/eduku/system/logs/
+INFO  - 2011-11-20 03:40:51 --> Cache path set to: /home2/plusmed1/public_html/eduku/system/cache/
+INFO  - 2011-11-20 03:40:51 --> New feature 'FileSystem Check' created
+INFO  - 2011-11-20 03:40:51 --> New feature 'Setup FileSystem' created
+INFO  - 2011-11-20 03:40:51 --> New feature 'Setup Database' created
+INFO  - 2011-11-20 03:40:51 --> Feature 'Setup FileSystem' now has prerequisite 'FileSystem Check'
+INFO  - 2011-11-20 03:40:51 --> Feature 'Setup Database' now has prerequisite 'Setup FileSystem'
+INFO  - 2011-11-20 03:40:51 --> Component 'Log Folder writable' attached to feature 'FileSystem Check'
+INFO  - 2011-11-20 03:40:51 --> Component 'Asset folders writable' attached to feature 'FileSystem Check'
+INFO  - 2011-11-20 03:40:51 --> Component 'Cache Folder writable' attached to feature 'FileSystem Check'
+INFO  - 2011-11-20 03:40:51 --> Component 'Config files writable' attached to feature 'FileSystem Check'
+INFO  - 2011-11-20 03:40:51 --> Component 'Create new system config file' attached to feature 'Setup FileSystem'
+INFO  - 2011-11-20 03:40:51 --> Component 'Create new database config file' attached to feature 'Setup FileSystem'
+INFO  - 2011-11-20 03:40:51 --> Component 'Create new ReCAPTCHA config file' attached to feature 'Setup FileSystem'
+INFO  - 2011-11-20 03:40:51 --> Component 'Connect to database' attached to feature 'Setup Database'
+INFO  - 2011-11-20 03:40:51 --> Component 'Update table schema' attached to feature 'Setup Database'
+INFO  - 2011-11-20 03:40:51 --> Component 'Create administrator user account' attached to feature 'Setup Database'
+INFO  - 2011-11-20 03:40:51 --> Log Folder writable Component installed
+INFO  - 2011-11-20 03:40:51 --> Asset folders writable Component installed
+INFO  - 2011-11-20 03:40:51 --> Cache Folder writable Component installed
+INFO  - 2011-11-20 03:40:51 --> Config files writable Component installed
+INFO  - 2011-11-20 03:40:51 --> FileSystem Check Feature installed
+INFO  - 2011-11-20 03:40:51 --> Create new system config file Component installed
+INFO  - 2011-11-20 03:40:51 --> Create new database config file Component installed
+INFO  - 2011-11-20 03:40:51 --> Create new ReCAPTCHA config file Component installed
+INFO  - 2011-11-20 03:40:51 --> Setup FileSystem Feature installed
+INFO  - 2011-11-20 03:40:51 --> Connect to database Component installed
+INFO  - 2011-11-20 03:40:52 --> Update table schema Component installed
+INFO  - 2011-11-20 03:40:52 --> Create administrator user account Component installed
+INFO  - 2011-11-20 03:40:52 --> Setup Database Feature installed
